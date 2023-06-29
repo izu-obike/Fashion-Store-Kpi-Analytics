@@ -40,6 +40,4 @@ Additionally, see my blog entry on this project, which covers the following cate
 
 https://medium.com/@izu.obike/analytics-of-fashion-data-sales-metrics-and-kpis-ac53c5e96a96
 
-https://public.tableau.com/views/KKDASHBOARD/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
-
 
