@@ -36,7 +36,5 @@ Additionally, see my blog entry on this project, which covers the following cate
 
 <strong>SECTION 3:</strong> Using Tableau to calculate sales performance KPIs
 
- <strong>Follow Link below to Read full Analysis </strong>
-
 
 
