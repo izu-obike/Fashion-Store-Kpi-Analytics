@@ -28,13 +28,6 @@ This project's goal was to do sales analysis on a retail fashion dataset. The fo
  <strong>About the datasets:</strong>
  This Project utilised a dataset from 365 Data Science. It includes demographics, customer lifetime value, year of purchase, product category, line production SKU, and other consumer and product information. The total data consists of 3675 rows and 26 columns.
 
-Additionally, see my blog entry on this project, which covers the following categories;
-
-<strong>SECTION 1:</strong> Overview of KPIs for sales performance
-
-<strong>SECTION 2:</strong> The difference between sales performance metrics and key performance indicators (KPIs)
-
-<strong>SECTION 3:</strong> Using Tableau to calculate sales performance KPIs
 
 
 
